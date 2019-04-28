@@ -19,7 +19,7 @@ $.fn.UiSearh = function(){
 	// 	$('.ui-search-select-list').hide();
 	// 	return false;
 	// });
-}
+} 
 
 // content
 $.fn.UiTab = function(header,content,){

@@ -159,6 +159,7 @@
 }
 .ui-menu-item:hover .ui-menu-item-detail{
 	display: block;
+	z-index: 1;
 }
 
 /*banner轮播图*/
